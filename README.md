@@ -23,7 +23,7 @@
 (4) Other:\
 (4a) Unit 11 Rubric.pdf\
 (4b) AssignmentEvolution.pptx\
-(4c) _config.yml\
+(4c) _config.yml
 
 ## **Project Description & Background:**
 Sharing data analysis previously completed, via a website to the public domain
