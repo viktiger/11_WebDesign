@@ -76,6 +76,12 @@
   padding-right: 10%;
 }
 
+.container img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 /* 
 .nav-item {
   position: absolute;
