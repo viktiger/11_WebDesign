@@ -1,0 +1,77 @@
+
+.About {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+.Comparison {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+/* Text underneath comparison graphs */
+.caption {
+  position: relative;
+  text-align: center;
+  background: white;
+  color: black;
+}
+
+/* Container holding the image and the text --- Could potential simplify the code as container and caption are achieve the same visual outcome*/
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+.Datasource {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+.dropdown-divider {
+  background: grey;
+}
+
+/* 
+.nav-item {
+  position: absolute;
+  margin-top: 80px;
+  bottom: 8px;
+  left: 16px;
+  color: black;
+  height: 400px;
+  padding: 20px;
+}
+
+.navbar-brand {
+  background: deepskyblue;
+}
+
+.dropdown-item {
+  color: black;
+}
+
+.dropdown-menu {
+  color: black;
+}
+
+.navbar-toggler {
+  color: #fff;
+} */
+
+/* .navbarSupportedContent {
+  color: #fff;
+} */
+
+/* Top left text
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  right: 16px;
+  bottom: 8px;
+} */
