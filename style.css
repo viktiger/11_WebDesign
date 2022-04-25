@@ -19,13 +19,6 @@
   color: black;
 }
 
-/* Container holding the image and the text --- Could potential simplify the code as container and caption are achieve the same visual outcome*/
-.container {
-  position: relative;
-  text-align: center;
-  color: black;
-}
-
 .Datasource {
   position: relative;
   text-align: center;
@@ -34,6 +27,53 @@
 
 .dropdown-divider {
   background: grey;
+}
+
+/* Container holding the image and the text used on about page --- home page can be simplified to remove container class */
+/* .container {
+  position: relative;
+  text-align: center;
+  color: black;
+} */
+
+/* About page text */
+.about-text-block {
+  position: absolute;
+  top: 20%;
+  left: 20%;
+  /* transform: translate(-50%, -50%); */
+  background-color: whitesmoke; opacity:0.5;
+  color: black;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+/* Data page text */
+.data-text-block {
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  /* transform: translate(-50%, -50%); */
+  background-color: whitesmoke; opacity:0.5;
+  color: black;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.imageWrapper {
+  opacity: 1;
+}
+
+/* Visualizations page text */
+.visual-text-block {
+  position: absolute;
+  top: 20%;
+  left: 5%;
+  /* transform: translate(-50%, -50%); */
+  background-color: whitesmoke; opacity:0.5;
+  color: black;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 /* 
