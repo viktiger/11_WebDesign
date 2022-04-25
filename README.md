@@ -2,25 +2,36 @@
 
 
 ## **Project Parts:**
-(1) WebDesignTitlePage.png\
-(2) cities.csv\
-(3) \
-(4) \
-(5) \
-(6) \
-(7) .png\
-(8) .png\
-(9) .png\
+(1) Background Images:\
+(1a) Background.jpg\
+(1b) BackgroundTitlePage.jpg\
+(1c) BackgroundTransparent.jpg\
+\
+(2) Webpages:\
+(2a) index.html\
+(2b) style.css\
+(2c) About.html\
+(2c) Data.html\
+(2c) Comparison.html\
+(2d) Visualization1.html\
+(2e) Visualization2.html\
+(2f) Visualization3.html\
+(2g) Visualization4.html\
+\
+(3) Resources folder contains website data:\
+\
+(4) Other:\
+(4a) Unit 11 Rubric.pdf\
+(4b) AssignmentEvolution.pptx\
+(4c) _config.yml\
 
 ## **Project Description & Background:**
 Sharing data analysis previously completed, via a website to the public domain
 
 ## **Project Charter:**
-(1) Run/ Display script ______ from repository\
-(2) Run/ Display script ______ from repository\
-(3) Run Bonus script ______ from repository\
-(4) Run Bonus script ______ from repository\
-(5) Run the scripts in the order that they appear\
+(1) Display script from repository\
+(2) Display website from https://viktiger.github.io/VS_Assignment11_WebDesign/\
+(3) Run the scripts in the order that they appear\
 
 ## **Project Authors:**
 Author - viktiger
